@@ -1,0 +1,30 @@
+[trends]
+mainpath=C:\NucTeh\
+
+[lkp]
+item250=Термосопр.П
+item251=Термосопр.Pt
+item252=Термосопр.M
+item253=Термосопр.Cu
+
+[awp_slot]
+trust0=:60:127.0.0.1
+defcharset=windows-1251
+defmime=text/plain
+mime0=txt:text/plain htm:text/html html:text/html css:text/css xml:text/xml
+mime1=gif:image/gif png:image/png jpg:image/jpg bmp:image/bmp svg:image/svg+xml
+rootdir=C:\NucTeh\www
+port=81
+defconnections=50
+incconnections=10
+extensions=xml;js;cr
+logaccess=0
+logaccesspath=c:\
+logcontrol=0
+logcontrolpath=c:\
+logfreq=0
+logfreqpath=c:\
+
+[Registration]
+User=GTEC
+Key=3F7E0001068D9A91
